@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "d8173fac9c3b7cc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d013adf57b8ce4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe4ad7279459e82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94941f9b8a21bc6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "66d7651b7b37ebcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e1327518ec46cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4640a3846a8299af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75426711107bb3e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "right": {
+    "id": "8821bc753700d9f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "66195d8dc6b6a975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45a67ec86940f187",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84f598153a8a9ef0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef6f6fde54e376f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4de12c2aca10657b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2268234dd968b78",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "57e1327518ec46cb",
+  "lastOpenFiles": [
+    "azure-developer-associate-practice/README.md",
+    "azure-developer-associate-practice",
+    "Develop Azure compute solution/Implement Azure App Service Web Apps/Scale apps in Azure App Service.md",
+    "Develop Azure compute solution/Implement Azure App Service Web Apps/Exploring Azure App Deployment Slots.md",
+    "Develop Azure compute solution/Implement Azure App Service Web Apps/Configure application settings.md",
+    "AZ-204 Questions and Answers/Develop Azure compute solution/Azure App Service.md",
+    "Monitor, troubleshoot, and optimize Azure solutions/Implement caching for solutions/System design patterns.md",
+    "[.md",
+    "Monitor, troubleshoot, and optimize Azure solutions/Implement caching for solutions/Develop for storage on CDNs.md",
+    "Monitor, troubleshoot, and optimize Azure solutions/Implement caching for solutions/Develop for Azure Cache for Redis.md",
+    "Develop Azure compute solution/Implement Azure App Service Web Apps/Troubleshooting in Azure App Service.md",
+    "Develop Azure compute solution/Implement Azure App Service Web Apps/Explore Azure App Service.md",
+    "Develop for Azure storage/Develop solutions that use Azure Cosmos DB/Consume an Azure Cosmos DB for NoSQL change feed using the SDK.md",
+    "AZ-204 Questions and Answers/Develop Azure compute solution",
+    "AZ-204 Questions and Answers",
+    "Connect to and consume Azure services and third-party services/Develop event-based solution/Explore Azure Event Grid.md",
+    "Connect to and consume Azure services and third-party services/Explore API Management.md",
+    "Connect to and consume Azure services and third-party services/Develop message-based solutions.md",
+    "Develop Azure compute solution/Implement Azure Functions/Explore Azure Functions.md",
+    "Develop Azure compute solution/Implement Azure Functions/Develop Azure Functions.md",
+    "Connect to and consume Azure services and third-party services/Develop event-based solution/Explore Azure Event Hubs.md",
+    "Develop Azure compute solution/Implement containerized solutions/Run container images in Azure Container Instances.md",
+    "Develop Azure compute solution/Implement containerized solutions/Manage container images in Azure Container Registry.md",
+    "Develop Azure compute solution/Implement containerized solutions/Implement Azure Container Apps.md",
+    "Monitor, troubleshoot, and optimize Azure solutions/Troubleshoot solutions by using Application Insights.md",
+    "Monitor, troubleshoot, and optimize Azure solutions/Implement caching for solutions",
+    "Monitor, troubleshoot, and optimize Azure solutions/Develop for Azure Cache for Redis.md",
+    "Develop for Azure storage/Develop solutions that use Azure Blob Storage/Explore Azure Blob Storage.md",
+    "Develop for Azure storage/Develop solutions that use Azure Blob Storage/Manage the Azure Blob storage lifecycle.md",
+    "Implement Azure security/Implement user authentication and authorization/Implement shared access signatures.md",
+    "Connect to and consume Azure services and third-party services/Develop event-based solution",
+    "Implement Azure security/Implement secure Azure solution",
+    "Implement Azure security/Implement user authentication and authorization",
+    "Develop for Azure storage/Develop solutions that use Azure Blob Storage",
+    "Develop for Azure storage/Develop solutions that use Azure Cosmos DB",
+    "Develop Azure compute solution/Implement Azure Functions"
+  ]
+}
